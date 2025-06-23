@@ -38,14 +38,14 @@ Enables users to search for any song, artist, or album. The application dynamica
 
 ## 🚀 Features
 
-✅ Modern UI/UX design
-✅ Global top charts and genre-based music exploration
-✅ Play and pause track previews
-✅ Artist and track detail pages
-✅ Search functionality for songs and artists
-✅ Seamless page routing using React Router
-✅ State management via Redux Toolkit
-✅ RapidAPI integration for real-time data
+*✅ Modern UI/UX design
+*✅ Global top charts and genre-based music exploration
+*✅ Play and pause track previews
+*✅ Artist and track detail pages
+*✅ Search functionality for songs and artists
+*✅ Seamless page routing using React Router
+*✅ State management via Redux Toolkit
+*✅ RapidAPI integration for real-time data
 
 ---
 
@@ -72,41 +72,6 @@ src/
 ├── App.jsx              # Main application component
 ├── main.jsx             # Entry point
 ```
-
----
-
-## ⚙️ Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/spotify-clone.git
-cd spotify-clone
-```
-
-### 2. Install Dependencies
-
-```bash
-npm install
-```
-
-### 3. Set Up Environment Variables
-
-Create a `.env` file in the root directory and add your RapidAPI key:
-
-```env
-VITE_SHAZAM_CORE_RAPID_API_KEY=your_rapidapi_key_here
-```
-
-> 🚨 Make sure to never expose your `.env` file publicly.
-
-### 4. Run the App
-
-```bash
-npm run dev
-```
-
-Now open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
 
 ---
 
