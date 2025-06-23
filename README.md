@@ -38,14 +38,14 @@ Enables users to search for any song, artist, or album. The application dynamica
 
 ## 🚀 Features
 
-*✅ Modern UI/UX design
-*✅ Global top charts and genre-based music exploration
-*✅ Play and pause track previews
-*✅ Artist and track detail pages
-*✅ Search functionality for songs and artists
-*✅ Seamless page routing using React Router
-*✅ State management via Redux Toolkit
-*✅ RapidAPI integration for real-time data
+* ✅ Modern UI/UX design
+* ✅ Global top charts and genre-based music exploration
+* ✅ Play and pause track previews
+* ✅ Artist and track detail pages
+* ✅ Search functionality for songs and artists
+* ✅ Seamless page routing using React Router
+* ✅ State management via Redux Toolkit
+* ✅ RapidAPI integration for real-time data
 
 ---
 
