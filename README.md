@@ -8,7 +8,7 @@ A full-featured music streaming web application built using **React**, **Redux T
 
 This is the homepage of the application. It features the currently trending music, a dropdown to choose genres, and highlights the top charts and artists in a compact sidebar.
 
-![Discover](./Discover.png)
+![Discover](./Discoverr.png)
 
 ---
 
